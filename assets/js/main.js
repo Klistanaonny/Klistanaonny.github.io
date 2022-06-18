@@ -1,1 +1,3 @@
-alert('bem-vindo.');
+function mandarmsg(){
+    alert('bem-vindo!');
+}
